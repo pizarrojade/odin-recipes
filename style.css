@@ -37,6 +37,7 @@ li:hover {
 
 a {
     text-decoration: none;
+    background-color: #fff8dc;
     color: #8b4513;
     font-weight: bold;
     display: block;
